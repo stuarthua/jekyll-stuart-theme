@@ -1,0 +1,35 @@
+# Site settings
+title: StuartHua's Blog
+email: me@stuarthua.com
+description: >-
+  One Blog
+baseurl: ""
+url: "http://blog.stuarthua.com"
+
+# Social setting
+twitter_username: stuarthua_sir
+github_username:  stuarthua
+
+# nav order
+header_pages:
+  - pages/category.md
+  - pages/tag.md
+  - pages/about.md
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
