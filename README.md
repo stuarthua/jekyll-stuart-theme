@@ -12,9 +12,5 @@ Minimalism theme of Jekyll.
 
 ```
 git clone https://github.com/stuarthua/jekyll-stuart-theme.git
-
+jekyll server
 ```
-    
-## License
-
-This project is licensed under the [MIT license](http://opensource.org/licenses/MIT).
